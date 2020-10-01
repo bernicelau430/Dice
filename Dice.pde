@@ -2,7 +2,7 @@ Die dice;
 
 void setup()
 {
-  size(1000, 700);
+  size(590, 700);
   textSize(25);
   textAlign(CENTER, CENTER);
 	noLoop();
